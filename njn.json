@@ -1,6 +1,6 @@
 {
-"name": "njn",
-"description": "njn pool",
-"ticker": "njn",
-"homepage": "https://nojan.pool"
+  "name": "njn",
+  "ticker": "njn",
+  "description": "njn pool",
+  "homepage": "https://nojan.pool"
 }
