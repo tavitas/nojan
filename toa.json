@@ -1,6 +1,6 @@
 {
-  "name": "toa",
+  "name": "TOA_POOL",
   "ticker": "TOA",
-  "description": "TOA test pool",
+  "description": "TOA POOL for the Shelley Testnet",
   "homepage": "https://toa.insamoa.info"
 }
